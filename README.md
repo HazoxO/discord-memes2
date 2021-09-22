@@ -16,7 +16,48 @@
      <img src="https://img.shields.io/badge/discord-js-blue.svg" alt="discord.js">
   </a>
 
+  # Instalacion 
+  
+ ```js
+  npm i discord-memes2
+ ```
+  
+  # Uso normal
+  
+  ```js
+ const memes = require("discord-memes"); 
+console.log(memes.imagenesEspañol())
+  ```
+  
+  # Ejemplo dentro del index
+  
+   ```js
  
+  const memes = require('discord-memes');
+const Discord = require('discord.js');
+const client = new Discord.Client();
+
+client.on('ready', () => {
+    console.log('Listo!')
+});
+
+client.on('message', (message) => {
+    if (message.content == 'meme') {
+        message.channel.send(memes.imagenesEspañol())
+    }
+});
+
+client.login('token');
+ ```
+  
+  # Otros usos de metodos
+  
+  memes.imagenesEspañol() retorna imagenes de memes en español.
+
+  memes.videosEspañol() retorna videos de memes en español.
+
+  memes.deTodoEspañol() retorna de todo (videos e imagenes) en español.
+  
   # Unete a la comunidad
   
   https://discord.gg/GwwU56X3Sp
