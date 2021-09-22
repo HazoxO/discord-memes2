@@ -1,12 +1,10 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/HazoxO/discord-memes2/blob/main/README.md"><img src="https://w.wallhaven.cc/full/8x/wallhaven-8x7qj2.jpg" alt="Discord-Memes 2"></a>
+  <a href="https://github.com/HazoxO/discord-memes2"><img src="https://w.wallhaven.cc/full/8x/wallhaven-8x7qj2.jpg" alt="Discord-Memes 2"></a>
   <br>
   Discord-Memes 2
   <br>
-</h1>
-
-<h4 align="center">Un módulo para hacer memes para tu bot de discord.</h4>
+</h<h4 align="center">Un módulo para hacer memes para tu bot de discord.</h4>
 
 <p align="center">
   <a href="https://discordapp.com/invite/7ZsYdpuF">
@@ -25,7 +23,7 @@
   # Uso normal
   
   ```js
- const memes = require("discord-memes"); 
+ const memes = require("discord-memes2"); 
 console.log(memes.imagenesEspañol())
   ```
   
@@ -33,7 +31,7 @@ console.log(memes.imagenesEspañol())
   
    ```js
  
-  const memes = require('discord-memes');
+  const memes = require('discord-memes2');
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
@@ -60,6 +58,5 @@ client.login('token');
   
   # Unete a la comunidad
   
-  https://discord.gg/GwwU56X3Sp
-
+  https://discord.gg/GwwU56X3Sp1>
  
