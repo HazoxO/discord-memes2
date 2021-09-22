@@ -56,7 +56,8 @@ client.login('token');
 
   memes.deTodoEspañol() retorna de todo (videos e imagenes) en español.
   
-  # Unete a la comunidad
+  # Nota
   
-  https://discord.gg/GwwU56X3Sp1>
+  Esto fue tomado de proyecto discord-memes de dylan pero este se estara actualizando cada semana llenandose de mas memes para todos!
+  https://github.com/Dylan-Pro/discordmemes
  
