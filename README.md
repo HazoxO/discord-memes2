@@ -4,20 +4,17 @@
   <br>
   Discord-Memes 2
   <br>
-</h<h4 align="center">Un módulo para hacer memes para tu bot de discord.</h4>
+</h1><h4 align="center">Un módulo para hacer memes para tu bot de discord.</h4>
 
 <p align="center">
-  <div align="center">
-  <p>
     <a href="https://nodei.co/npm/discord-memes2/"><img src="https://nodei.co/npm/discord-memes2.png?downloads=true&downloadRank=true&stars=true"></a>
-  </p>
-    <img alt="node-current" src="https://img.shields.io/node/v/distube?logo=node.js&logoColor=white&style=flat-square">
-  <a href="https://discordapp.com/invite/7ZsYdpuF">
+    <a href="https://discordapp.com/invite/7ZsYdpuF">
     <img src="https://discordapp.com/api/guilds/845459731308347442/widget.png?style=shield" alt="Discord Server">
   </a>
   <a href="https://github.com/discordjs/discord.js">
      <img src="https://img.shields.io/badge/discord-js-blue.svg" alt="discord.js">
   </a>
+</p>
 
   # Instalacion 
   
@@ -55,14 +52,13 @@ client.login('token');
   
   # Otros usos de metodos
   
-  memes.imagenesEspañol() retorna imagenes de memes en español.
+ - memes.imagenesEspañol() retorna imagenes de memes en español.
 
-  memes.videosEspañol() retorna videos de memes en español.
+ - memes.videosEspañol() retorna videos de memes en español.
 
-  memes.deTodoEspañol() retorna de todo (videos e imagenes) en español.
+ - memes.deTodoEspañol() retorna de todo (videos e imagenes) en español.
   
   # Nota
   
   Esto fue tomado de proyecto discord-memes de dylan pero este se estara actualizando cada semana llenandose de mas memes para todos!
   https://github.com/Dylan-Pro/discordmemes
- 
