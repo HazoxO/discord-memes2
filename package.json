@@ -1,0 +1,23 @@
+{
+  "name": "discord-memes2",
+  "version": "1.2.9",
+  "description": "Un módulo para hacer memes para tu bot de discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memes",
+    "discord",
+    "Discord Memes",
+    "Bot discord",
+    "Memes command",
+    "Fun"
+  ],
+  "author": "antoniomlz",
+  "license": "MIT",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {}
+}
