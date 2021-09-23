@@ -30,6 +30,7 @@ console.log(memes.imagenesEspañol())
   ```
   
   # Ejemplo dentro del index
+  dentro de la version 12 de discord.
   
    ```js
  
